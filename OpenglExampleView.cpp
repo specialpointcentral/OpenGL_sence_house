@@ -593,7 +593,6 @@ void COpenglExampleView::GLSetupRC(HDC hdc)
 	glEnable(GL_DEPTH_TEST);
 	glShadeModel(GL_SMOOTH);
 	glPolygonMode(GL_FRONT_AND_BACK, GL_FILL);
-
 }
 
 ///*设置特殊效果*/
